@@ -3,11 +3,13 @@
 
 1. 초기 세팅
    bash 열고 아래 코드 실행
+   
    python -m venv venv
    ./venv/Scripts/activate (가상환경 이동)
    pip install streamlit
    pip install pandas
 
-2. 파일 실행 방법
+3. 파일 실행 방법
    bash 열고 아래 코드 실행
+   
    streamlit run app.py
